@@ -6,6 +6,12 @@ This app runs like following command image for *nix.
 $ tail -f *logfile* | nc -u *syslog server* 514
 
 
+
+![](https://github.com/nori-nori/log2syslog/blob/master/image.png)
+
+
+
+
 # Spec
 support follows.
 
